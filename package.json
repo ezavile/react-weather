@@ -1,12 +1,12 @@
 {
-  "name": "boilerplate",
+  "name": "react-weather",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "Simple React App to know the current weather in your city",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Andrew Mead",
+  "author": "Edgar Zavala",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.15.2",
