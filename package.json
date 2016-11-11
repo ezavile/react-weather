@@ -4,7 +4,8 @@
   "description": "Simple React App to know the current weather in your city",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Edgar Zavala",
   "license": "MIT",
